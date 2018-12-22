@@ -1,0 +1,10 @@
+E:\GitHub\Maze\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+E:\GitHub\Maze\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+E:\GitHub\Maze\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+E:\GitHub\Maze\MazeGame\MazeGame\obj\Debug\MazeGame.csprojResolveAssemblyReference.cache
+E:\GitHub\Maze\MazeGame\MazeGame\obj\Debug\MazeGame.Properties.Resources.resources
+E:\GitHub\Maze\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.GenerateResource.cache
+E:\GitHub\Maze\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+E:\GitHub\Maze\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+E:\GitHub\Maze\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+E:\GitHub\Maze\MazeGame\MazeGame\obj\Debug\MazeGame.Maze.resources
